@@ -19,7 +19,7 @@ I'm a software tester with experience in manual testing and wants to upskill int
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aljunjimenez)
 
 ## Projects
-
+Check out my projects.
 [Playwright UI Tests (Saucedemo)](https://github.com/aljmnz59/saucedemo-e2e-tests)
 
 ## Others
