@@ -8,10 +8,12 @@
 ## 🚀 About Me
 I'm a software tester with experience in manual testing and wants to upskill into automation testing or web developer using Java as Programming Language.
 ## 🛠 Skills
- - Manual Testing: Functional (Regression, Smoke, Sanity, UAT, E2E, Exploratory), Test case creation and execution, and Bug/Defect Reporting.
- - Programming Language: Java, JavaScript.
- - Automation Testing: Playwright, and Appium.
- - API Testing: Authentication, HTTP Methods.
+ - Manual Testing: Functional Testing (Regression, Smoke, UAT), Non-Functional Testing (Usability, Compatibility, Performance, Security), Exploratory Testing, STLC, Test Case (Creation and Execution), and Defect Logging & Reporting.
+ - Programming Language: Java and JavaScript.
+ - Automation Testing: Test Reports, Smoke, Regression, UI, and API tests.
+ - API Testing: Headers & Body, Endpoint, HTTP Methods, and Status Codes.
+- Testing Tools: Jira, Postman, Selenium, Playwright, and Appium.
+- CI/CD: Git, GitHub, and GitHub Actions.
  
 
 
