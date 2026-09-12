@@ -20,10 +20,11 @@ I'm a software tester with experience in manual testing and wants to upskill int
 
 ## Projects
 Check out my projects.
+
 [Playwright UI Tests (Saucedemo)](https://github.com/aljmnz59/saucedemo-e2e-tests)
 
 ## Others
 🧠 I'm currently learning Java Programming Language
 
-📫 You can reach me via LinkedIn or just sent me an email aljunjimenez59@gmail.com
+📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/aljunjimenez) or just sent me an email aljunjimenez59@gmail.com
 
