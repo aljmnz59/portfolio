@@ -1,5 +1,5 @@
 
-# Portfolio
+# Welcom to My Portfolio
 
 
 # Hi, I'm Aljun! 👋
@@ -16,7 +16,7 @@ I'm a software tester with experience in manual testing and wants to upskill int
 
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/aljunjimenez)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aljunjimenez)
 
 ## Projects
 
