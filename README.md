@@ -12,8 +12,9 @@ I'm a software tester with experience in manual testing and wants to upskill int
  - Programming Language: Java and JavaScript.
  - Automation Testing: Test Reports, Smoke, Regression, UI, and API tests.
  - API Testing: Headers & Body, Endpoint, HTTP Methods, and Status Codes.
-- Testing Tools: Jira, Postman, Selenium, Playwright, and Appium.
-- CI/CD: Git, GitHub, and GitHub Actions.
+ - Testing Tools: Postman, Selenium, Playwright, and Appium.
+ - CI/CD: Git, GitHub, and GitHub Actions.
+ - Methodologies: Agile, Scrum (Sprint Planning & Review, Daily Standups, Backlog and Retrospective), and Kanban
  
 
 
